@@ -1,6 +1,7 @@
 # Flutter-Plastic-Detection-App-using-YOLOv5
 - Implemented ```flutter_pytorch``` package for integrating YOLOv5 algorithm
 # Screenshots of working:
+(Tested on multiple different devices)
 ## • Dummy Login Page
 ![Login](https://github.com/ShubhamGhanmode/Flutter-Plastic-Detection-App-using-YOLOv5/assets/35194671/fbe2bdef-ee6c-4a54-8e44-5432a63f8911)
 
